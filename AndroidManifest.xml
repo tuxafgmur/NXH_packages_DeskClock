@@ -22,7 +22,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher_alarmclock"
-        android:label="@string/app_label_new"
+        android:label="@string/app_label"
         android:requiredForAllUsers="true"
         android:supportsRtl="true"
         android:theme="@style/DeskClock">
@@ -48,7 +48,7 @@
 
         <activity
             android:name="org.omnirom.deskclock.DeskClock"
-            android:label="@string/app_label_new"
+            android:label="@string/app_label"
             android:launchMode="singleTask">
 
             <intent-filter>
@@ -63,7 +63,7 @@
 
         <activity-alias
             android:name="DockClock"
-            android:label="@string/app_label_new"
+            android:label="@string/app_label"
             android:launchMode="singleTask"
             android:targetActivity="org.omnirom.deskclock.DeskClock">
             <intent-filter>
@@ -219,7 +219,7 @@
         <service
             android:name="org.omnirom.deskclock.Screensaver"
             android:exported="true"
-            android:label="@string/app_label_new"
+            android:label="@string/app_label"
             android:permission="android.permission.BIND_DREAM_SERVICE">
             <intent-filter>
                 <action android:name="android.service.dreams.DreamService" />
