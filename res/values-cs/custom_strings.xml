@@ -134,8 +134,6 @@
   <string name="color_theme_title">Motiv</string>
   <string name="randomMusicType">Náhodná hudba</string>
   <string name="browse_activity_title">Prohlížet</string>
-  <string name="local_query_alarm">Budíky</string>
-  <string name="local_query_ringtone">Vyzváněcí tóny</string>
   <string name="local_query_recent">Nedávné</string>
   <string name="local_query_hint">Hledat</string>
   <string name="local_query_artist">Interpreti</string>

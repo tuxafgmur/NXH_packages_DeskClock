@@ -134,8 +134,6 @@
   <string name="color_theme_title">Tema</string>
   <string name="randomMusicType">Rastgele müzik</string>
   <string name="browse_activity_title">Göz at</string>
-  <string name="local_query_alarm">Alarmlar</string>
-  <string name="local_query_ringtone">Zil sesleri</string>
   <string name="local_query_recent">Yakın zamandaki</string>
   <string name="local_query_hint">Ara</string>
   <string name="local_query_artist">Sanatçılar</string>
