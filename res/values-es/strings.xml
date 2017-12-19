@@ -35,8 +35,8 @@
     <string name="alert" msgid="6506982899651975645">"Tono de alarma"</string>
     <string name="ringtone" msgid="9110746249688559579">"Tono de llamada"</string>
     <string name="time" msgid="8067216534232296518">"Hora"</string>
-    <string name="alarm_tomorrow" msgid="131356848787643420">"Mañana"</string>
-    <string name="alarm_today" msgid="7873594221106531654">"Hoy"</string>
+    <string name="alarm_tomorrow" msgid="131356848787643420">"   Mañana"</string>
+    <string name="alarm_today" msgid="7873594221106531654">"   Hoy"</string>
     <string name="alarm_alert_wake_up" msgid="6790780716498252583">"¡Despierta!"</string>
     <string name="alarm_alert_off_action_text" msgid="2459925305288819812">"No"</string>
     <string name="alarm_alert_dismiss_text" msgid="4942914605480888820">"Descartar"</string>
@@ -194,8 +194,8 @@
     <string name="timers_max_count_reached" msgid="9140022846793903813">"Máximo: 4 temporizadores"</string>
   <string-array name="sw_share_strings">
     <item msgid="842841032273927988">"Eres el rey de la velocidad."</item>
-    <item msgid="6332879039890727169">"Disfruta de los frutos de tu trabajo."</item>
-    <item msgid="815382761274660130">"Los androides se caracterizan por ser rápidos, pero no tanto como tú."</item>
+    <item msgid="6332879039890727169">"Disfruta los frutos de tu trabajo."</item>
+    <item msgid="815382761274660130">"Los androides son rápidos, pero no tanto como tú."</item>
     <item msgid="7916250650982813737">"¡Uf!"</item>
     <item msgid="6836603904515182333">"L33t veces"</item>
     <item msgid="7508085100680861631">"Una velocidad prodigiosa"</item>
@@ -217,7 +217,7 @@
     <item msgid="8483930821046925592">"Digital"</item>
   </string-array>
     <string name="automatic_home_clock" msgid="6274174710735449252">"Reloj de tu ciudad automático"</string>
-    <string name="automatic_home_clock_summary" msgid="6020476321040807273">"Cuando viajes a una zona con una hora diferente, añadir un reloj para la hora de tu ciudad"</string>
+    <string name="automatic_home_clock_summary" msgid="6020476321040807273">"Cuando estés en una zona horaria diferente, añadir un reloj con la hora de tu ciudad"</string>
     <string name="home_time_zone" msgid="9199730676287974501">"Zona horaria local"</string>
     <string name="home_time_zone_title" msgid="807894493443834624">"Zona horaria local"</string>
     <string name="time_picker_cancel" msgid="7437106489606013077">"Cancelar"</string>
